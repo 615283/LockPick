@@ -1,0 +1,11 @@
+name: ${project.name}
+version: ${project.version}
+author: 615283
+main: com.georlegacy.general.lockpick.LockPick
+commands:
+  lockpick:
+    usage: /<command> <give|version> <player> <MasterKey|LockPick>
+    permission: lockpick.command
+permissions:
+  lockpick.command:
+    default: op

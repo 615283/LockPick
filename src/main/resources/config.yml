@@ -1,0 +1,4 @@
+# This is the chance that a lockpick will unlock a locked container
+# It MUST be a value between 0 & 1 for the random mechanism to work!
+# Default is 0.7
+Chance: 0.7
